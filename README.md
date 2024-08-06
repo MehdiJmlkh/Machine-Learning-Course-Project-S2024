@@ -4,11 +4,9 @@
 
 
 ### Abstract
-One of the most powerful cognitive processes that in-
-volves mental simulation of movement without physical
+One of the most powerful cognitive processes that involves mental simulation of movement without physical
 execution is motor imagery. In this study, our focus is
-on extracting and preprocessing EEG signals and feed-
-ing them to machine-learning models for motor imagery
+on extracting and preprocessing EEG signals and feeding them to machine-learning models for motor imagery
 classification and clustering.
 
 ---
@@ -71,6 +69,6 @@ and analyzed the results using these scores:
 * Homogeneity Score
 
 ---
-For more information, please refer to the [project report](https://github.com/javadkavian/EEG_motor_imagery_analysis/blob/main/Report.pdf).
+For more information, please refer to the [project report](https://github.com/MehdiJmlkh/Machine-Learning-Course-Project-S2024/blob/main/Report.pdf).
 
 [**javadkavian**](https://github.com/javadkavian) & [**MehdiJmlkh**](https://github.com/MehdiJmlkh)   
